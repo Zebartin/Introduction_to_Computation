@@ -1,6 +1,6 @@
 # Introduction_to_Computation
 
-On my first semester in PKU, I took a lesson named Introduction to Computation A, on which I learned about C++.
+On my first semester(2015.9-2016.1) in PKU, I took a lesson named Introduction to Computation A, on which I learned about C++.
 
 These are codes of the homework for this lesson.
 
