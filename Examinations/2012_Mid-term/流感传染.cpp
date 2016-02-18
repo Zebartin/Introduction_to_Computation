@@ -43,6 +43,5 @@ int main()
 			if (rooms[i][j] == '@')
 				number++;
 	cout << number << endl;
-	system("pause");
 	return 0;
 }
