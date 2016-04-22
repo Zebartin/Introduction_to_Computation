@@ -10,7 +10,7 @@ My game is played by one player against the computer.
 
 To run my code,you have to do these in adavance:
 
-1. Copy my code to Visual Studio 2015 or VC (for the reason that EasyX seems not to support other compiler);
+1. Copy my code to Visual Studio 2015 or VC (for the reason that EasyX seems not to support other compilers);
 2. Download [EasyX](http://www.easyx.cn/downloads/) and set it up properly.
 
 The special rules of my Reversi are noted as follows:
@@ -37,7 +37,5 @@ The special rules of my Reversi are noted as follows:
 3. “进一步”只有在使用“退一步”后方能有效；
 4. 可通过“保存”保存游戏，会覆盖先前存档。
 
-##Images/游戏截图
-![开始界面](http://m1.yea.im/5oz.png)
-![下棋](http://m1.yea.im/5oA.png)
-![即将胜利](http://m1.yea.im/5oB.png)
+---
+2016/04/22
